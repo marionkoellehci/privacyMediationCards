@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Privacy Mediation Cards
 
-You can use the [editor on GitHub](https://github.com/marionkoellehci/privacyMediationCards/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Marion Koelle, and Susanne Boll. The Privacy Mediation Cards –- A Participatory Design Approach towards Respectful Smart Glasses. In: Workshop on Challenges Using Head-Mounted Displays in Shared and Social Spaces at the 2019 CHI Conference on Human Factors in Computing Systems, ACM, 2019.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marionkoellehci/privacyMediationCards/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Marion Koelle, Yvonne Brück, Vanessa Cobus, Wilko Heuten, and Susanne Boll. Respektvolle tragbare Kameras?. In: Datenschutz und Datensicherheit - DuD 41, no. 3 (2017): 152-158. https://doi.org/10.1007/s11623-017-0747-6
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to e-mail questions, ideas, or feedback to marion dot koelle at gmail dot com. 
